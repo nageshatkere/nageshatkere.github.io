@@ -1,12 +1,12 @@
 # Site settings
-title:Atkere Anantha Srinivas Pai & Sons	
-email:aaspai@gmail.com
-description :This is just a test # this means to ignore newlines until "baseurl:"
+title: "aasp"
+email: "aaspai@gmail.com"
+description: "dddd"> # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:nageshatkere
-github_username:nageshatkere
+twitter_username:
+github_username:
 
 # Build settings
 markdown: kramdown
