@@ -62,8 +62,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Mahamaya,  Main Road
+  - line: Koteshwar, KAR 576222
 
 # Build settings
 markdown: kramdown
