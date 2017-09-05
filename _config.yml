@@ -14,38 +14,35 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Atkere Ramachandra Pai 
   pic: 1
-  position: Lead Designer
+  position: Managing Partner
   social:
     - title: twitter
       url: #
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/atkereramachandra.pai?fref=nf
+      
 
-- name: Larry Parker
+- name: Atkere Anantha Srinivas Pai	
   pic: 2
-  position: Lead Marketer
+  position: Founding Partner 
   social:
     - title: twitter
       url: #
     - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+      url: https://www.facebook.com/
+      
 
-- name: Diana Petersen
+- name: Atkere Vishwanath Pai
   pic: 3
-  position: Lead Developer
+  position: Managing Partner
   social:
     - title: twitter
       url: #
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/vishwanath.pai.378
+      
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
